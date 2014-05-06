@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.idea_modules/
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
